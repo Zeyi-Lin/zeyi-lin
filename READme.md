@@ -2,7 +2,7 @@
 [![SwanHub Demo](https://img.shields.io/static/v1?label=HivisionIDPhoto&message=SwanHub%20Demo&color=blue)](http://blackswanai.cn/ZeYiLin/HivisionIDPhotos/demo)
 - 23 years old, born in 1999, Capricorn
 
-- Graduate student at Xidian University
+- Doctoral student at Xidian University
 
 - One of the co-founders of [SwanHub](https://blackswanai.cn/)
 
