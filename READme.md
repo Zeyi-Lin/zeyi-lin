@@ -1,15 +1,15 @@
-### Hi here, Welcome to my 🏠homepage.
-[![SwanHub Demo](https://img.shields.io/static/v1?label=HivisionIDPhoto&message=SwanHub%20Demo&color=blue)](https://blackswanai.cn/ZeYiLin/HivisionIDPhotos/demo)
-[![SwanHub Demo](https://img.shields.io/static/v1?label=PaddleOCR&message=SwanHub%20Demo&color=orange)](https://swanhub.co/ZeYiLin/PaddleOCR_PyTorch)
+### Hello, I'm ZeYiLin😎
 
+🧑‍🎓 I'm a PHD of artificial Intelligence in XDU
 
-- 23 years old, born in 1999, Capricorn
+🪄 23 years old, born in 1999, Capricorn, 
 
-- Doctoral student at Xidian University
+📱 "焕影一新" wechat mini program founder
 
-- One of the co-founders of [SwanHub](https://blackswanai.cn/)
+💻  Keen on artificial intelligence, product design and entrepreneurship 
 
-- "焕影一新" wechat mini program founder
+🏡  China, Based in Xi'an - but most of the time traveling around the world 🌎
 
-- Keen on products, artificial intelligence, entrepreneurship
+### Contact me
 
+zeyi.lin@swanhub.co
