@@ -7,9 +7,9 @@ My Products：
 | Product | Details       | Start Time|
 | ------  | ------- | ---------------- |
 | [SwanLab](https://github.com/SwanHubX/SwanLab)   | 🧐A tool for your machine learning log tracking and experiment management. **🚀Continuing iteration.** | 2023.12 |
-| [SwanHub](swanhub.co)     | 🤖A Machine Learning Open Source Community，**🚀Continuing iteration.**    | 2023.5 |
+| [SwanHub](https://swanhub.co)     | 🤖A Machine Learning Open Source Community，**🚀Continuing iteration.**    | 2023.5 |
 | HivisionIDPhotos   | **🔥1.1 million+ users**; WeChat mini program（Search "焕影一新"）; one-click production of ID photos based on CV; the code has been open-sourced by [HivisionIDPhotos](https://github.com/xiaolin199912/HivisionIDPhotos). Pause development.      | 2021.5 |
-| [SwanChain](swanchain.co)   | 🔧A drag-and-drop LLM Agent application editor. Pause development. | 2023.9 |
+| [SwanChain](https://swanchain.co)   | 🔧A drag-and-drop LLM Agent application editor. Pause development. | 2023.9 |
 <br>
 
 **E-mail**: zeyi.lin@swanhub.co
