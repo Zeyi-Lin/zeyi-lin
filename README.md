@@ -1,6 +1,6 @@
 **👋 Hi here, I'm ZeYiLin(林泽毅 in Chinese)**
 
-<a href="[https://www.xiaohongshu.com/user/profile/605786b90000000001003a81](https://www.zhihu.com/people/eager-59)" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
+<a href="https://www.zhihu.com/people/eager-59" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
 <a href="https://www.xiaohongshu.com/user/profile/605786b90000000001003a81" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Xiaohongshu-小红书-F04438"></a>
 
 Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/) , under the guidance of Prof. [Wu Jiaji](https://web.xidian.edu.cn/wujj/), and also a co-founder of [SwanHub](https://swanhub.co) and [SwanLab](https://github.com/SwanHubX/SwanLab). I am passionate about working in a full-stack capacity, with a love for **ML**, **UI&UX**, and **Product Management**. Currently, my focus is on building [@SwanLab](https://github.com/SwanHubX/SwanLab), aiming to create a new collaborative approach to AI research.
