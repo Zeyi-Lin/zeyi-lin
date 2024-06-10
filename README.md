@@ -2,7 +2,7 @@
 
 Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/) , under the guidance of Prof. [Wu Jiaji](https://web.xidian.edu.cn/wujj/), and also a co-founder of [SwanHub](https://swanhub.co) and [SwanLab](https://github.com/SwanHubX/SwanLab). I am passionate about working in a full-stack capacity, with a love for **ML**, **UI&UX**, and **Product Management**. Currently, my focus is on building [@SwanLab](https://github.com/SwanHubX/SwanLab), aiming to create a new collaborative approach to AI research.
 
-<a href="https://dev101.swanlab.cn"><img width="1612" alt="Frame 2546" src="https://github.com/xiaolin199912/xiaolin199912/assets/58305964/2f5c628e-2bd2-4e20-a747-eb2788ff2c59"></a>
+<a href="https://swanlab.cn"><img width="1612" alt="Frame 2546" src="swanlab-overview-new.png"></a>
 
 My Products：
 
@@ -15,7 +15,6 @@ My Products：
 <br>
 
 <a href="https://www.zhihu.com/people/eager-59" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
-<a href="https://www.xiaohongshu.com/user/profile/605786b90000000001003a81" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Xiaohongshu-小红书-F04438"></a>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeyilin.zeyilin-badge)](https://github.com/Zeyi-Lin/zeyi-lin)
 
 **E-mail**: zeyi.lin@swanhub.co
