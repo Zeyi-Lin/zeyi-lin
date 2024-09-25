@@ -4,7 +4,14 @@ Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.e
 
 <a href="https://swanlab.cn"><img width="1612" alt="SwanLab" src="swanlab-overview-new.png"></a>
 
-<a href="https://github.com/zeyi-lin/hivisionidphotos"><img width="1612" alt="HivisionIDPhotos" src="https://github.com/user-attachments/assets/a2ad2d7a-8598-4ae5-9e02-3d63a5595039"></a>
+
+The [HivisionIDphotos](https://github.com/zeyi-lin/hivisionidphotos) project originated from my reflections and product practices in the ID photo and copying industry in 2021. It was open-sourced in 2023 and has gained love from over 10k web engineers, AI researchers, system integrators, photographers, and professionals from various fields.
+
+***”我对HivisionID开源的最大期望，是用轻量级的AI技术，赋能更多人在人工智能时代看到新的机会，很开心这件事正在发生“***
+
+***"My greatest expectation for the open source of HivisionID is to empower more people to see new opportunities in the era of artificial intelligence with lightweight AI technology. I am very happy that this is happening."***
+
+<a href="https://github.com/zeyi-lin/hivisionidphotos"><img width="1612" alt="HivisionIDPhotos" src="https://github.com/user-attachments/assets/c0951940-8c0a-41ab-a105-ddb6555dd79b"></a>
 
 My Products：
 
