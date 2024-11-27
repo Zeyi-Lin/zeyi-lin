@@ -18,5 +18,6 @@ Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.e
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeyilin.zeyilin-badge)](https://github.com/Zeyi-Lin/zeyi-lin)
 
 **🔥We are hiring:**
-- 如果你想深度参与Swan系列工具链的建设当中，欢迎加入情感机器实习，联系我: zeyi.lin@swanhub.co
-- 如果你刚好是西安电子科技大学的本科生，且想要用技术/设计/商业去做足够有挑战的事情，欢迎加入[西电极创工作室](https://join.geek-tech.club/)
+
+- If you want to deeply participate in the construction of the **SwanLab toolchain**, welcome to join the Emotion Machine (Beijing) internship, contact me: zeyi.lin@swanhub.co
+- If you happen to be an undergraduate student at Xidian University and want to use technology/design/business to do challenging things, welcome to join [Xidian Geek-Tech Studio](https://join.geek-tech.club/)
