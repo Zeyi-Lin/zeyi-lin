@@ -16,3 +16,5 @@ Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.e
 
 <a href="https://www.zhihu.com/people/eager-59" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeyilin.zeyilin-badge)](https://github.com/Zeyi-Lin/zeyi-lin)
+
+🚗 如果你刚好在西安电子科技大学，且想要用技术/设计/商业去做足够有挑战的事情，欢迎加入[西电极创工作室](https://join.geek-tech.club/)
