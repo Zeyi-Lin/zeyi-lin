@@ -2,7 +2,8 @@
 
 Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/) , under the guidance of Prof. [Wu Jiaji](https://web.xidian.edu.cn/wujj/), and also a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab) and [SwanHub](https://swanhub.co). I am passionate about working in a full-stack capacity, with a love for **ML**, **Product**, and **UI&UX**. Currently, my focus is on building [@SwanLab](https://github.com/SwanHubX/SwanLab), aiming to create a new collaborative approach to AI research.
 
-<a href="https://swanlab.cn?utm_source=linzeyi_profile-homepage"><img width="1612" alt="SwanLab" src="https://github.com/user-attachments/assets/25226ed1-c68e-4b0f-8e28-6ab01c34a6dc"></a>
+![Frame 4177](https://github.com/user-attachments/assets/790f723d-2387-4814-9221-0d9b157f4946)
+
 
 **🚗My Products：**
 
