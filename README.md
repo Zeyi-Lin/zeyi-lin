@@ -21,4 +21,3 @@ Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.e
 **🔥We are hiring:**
 
 - If you want to deeply participate in the construction of the **SwanLab toolchain**, welcome to join the Emotion Machine (Beijing) internship, contact me: zeyi.lin@swanhub.co
-- If you happen to be an undergraduate student at Xidian University and want to use technology/design/business to do challenging things, welcome to join [Xidian Geek-Tech Studio](https://join.geek-tech.club/)
