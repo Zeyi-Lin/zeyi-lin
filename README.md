@@ -11,8 +11,8 @@ Now, I am a first-year Ph.D. student at [Xidian University](https://www.xidian.e
 | ---------  | ------- | ---------------- |
 | [SwanLab](https://github.com/SwanHubX/SwanLab)   | [Website](https://swanlab.cn?utm_source=linzeyi_profile-homepage). A tool for your machine learning log tracking and experiment management. **🚀Continuing iteration.** | 2023.12 |
 | [HivisionIDPhotos](https://github.com/xiaolin199912/HivisionIDPhotos)   | **🌟Github Trending top 1**. **🔥1.2 million+ users**; WeChat mini program（Search "焕影一新"）; one-click production of ID photos based on CV; the code has been open-sourced by [HivisionIDPhotos](https://github.com/xiaolin199912/HivisionIDPhotos).   | 2021.5 |
-| [SwanHub](https://swanhub.co)     | 🤖A Machine Learning Open Source Community，**🚀Continuing iteration.**    | 2023.5 |
-| [SwanChain](https://swanchain.co)   | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
+| SwanHub    | 🤖A Machine Learning Open Source Community，**🚀Continuing iteration.**    | 2023.5 |
+| SwanChain  | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
 <br>
 
 <a href="https://www.zhihu.com/people/eager-59" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Zhihu-知乎-4362f6"></a>
