@@ -16,7 +16,7 @@ Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and al
 | ---------  | ------- | ---------------- |
 | [SwanLab](https://github.com/SwanHubX/SwanLab)   | [Website](https://swanlab.cn?utm_source=linzeyi_profile-homepage). A tool for your machine learning log tracking and experiment management. **🚀Continuing iteration.** | 2023.12 |
 | [HivisionIDPhotos](https://github.com/xiaolin199912/HivisionIDPhotos)   | **🌟Github Trending top 1**. **🔥1.2 million+ users**; WeChat mini program（already offline🚬）; one-click production of ID photos based on CV; the code has been open-sourced by [HivisionIDPhotos](https://github.com/xiaolin199912/HivisionIDPhotos).   | 2021.5 |
-| SwanHub    | 🤖A Machine Learning Open Source Community，**🚀Continuing iteration.**    | 2023.5 |
+| SwanHub    | 🤖A Machine Learning Open Source Community.   | 2023.5 |
 | SwanChain  | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
 <br>
 
