@@ -25,6 +25,9 @@ Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and al
 
 **🌟Some experiences：**
 
-- **[HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)**: the GitHub Trending top 1
+- **[HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)**: [![][trendshift-shield]][trendshift-link]
 - **Tencent Application Development Competition**: 🥈 National runner-up
 - **Challenge Cup**：: 🏆 National Gold Award
+
+[trendshift-shield]: https://trendshift.io/api/badge/repositories/11622
+[trendshift-link]: https://trendshift.io/repositories/11622
