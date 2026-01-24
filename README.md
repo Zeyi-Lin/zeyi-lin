@@ -40,3 +40,13 @@ Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and al
 
 [trendshift-shield]: https://trendshift.io/api/badge/repositories/11622
 [trendshift-link]: https://trendshift.io/repositories/11622
+
+## GitHub Stats 📫
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Zeyi-Lin&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Zeyi-Lin&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
+    align="left" />
+</picture>
