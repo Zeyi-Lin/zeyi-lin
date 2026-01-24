@@ -1,3 +1,5 @@
+<div align="center">
+  
 *👋 Hi here, I'm ZeYiLin(林泽毅 in Chinese)*
 
 [![](https://raw.githubusercontent.com/SwanHubX/assets/main/badge2.svg)](https://swanlab.cn/@ZeyiLin)
@@ -5,11 +7,21 @@
 <a href="https://www.xiaohongshu.com/user/profile/605786b90000000001003a81" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Rednote-小红书-e93c49"></a>
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeyilin.zeyilin-badge)](https://github.com/Zeyi-Lin/zeyi-lin)
 
+</div>
+
+## About Me
+
 Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and also a Ph.D. student at [Xidian University](https://www.xidian.edu.cn/) , under the guidance of Prof. [Wu Jiaji](https://web.xidian.edu.cn/wujj/). I am passionate about working in a full-stack capacity, with a love for **ML**, **Product**, and **UI&UX**. Currently, my focus is on building [@SwanLab](https://github.com/SwanHubX/SwanLab), aiming to create a new collaborative approach to AI research.
 
 [![new](https://github.com/user-attachments/assets/c51cd584-abf7-470b-9baf-10baaf471d9d)](https://swanlab.cn)
 
-**🚗My Products：**
+## Interest
+
+- Technology: LLM Post-training, AgentRL, Python
+- Product: AI Infra/Tool direction(to developer), UI&UX, Figma
+- Design style: Notion-like
+
+## Product
 
 | Product | Details       | Start Time|
 | ---------  | ------- | ---------------- |
@@ -19,7 +31,7 @@ Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and al
 | SwanChain  | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
 <br>
 
-**🌟Some experiences：**
+## Some experiences
 
 - **[HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)**: [![][trendshift-shield]][trendshift-link]
 - **President's Scholarship of Xidian University**: 🏆 The highest Award in Xidian, 2022
