@@ -19,11 +19,6 @@ Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and al
 | SwanChain  | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
 <br>
 
-
-**🔥We are hiring:**
-
-- If you want to deeply participate in the construction of the **SwanLab toolchain**, welcome to join the Emotion Machine (Beijing) internship, contact me: zeyi.lin@swanhub.co
-
 **🌟Some experiences：**
 
 - **[HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)**: [![][trendshift-shield]][trendshift-link]
