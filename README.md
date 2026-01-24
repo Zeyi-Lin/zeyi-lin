@@ -14,12 +14,14 @@
 Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and also a Ph.D. student at [Xidian University](https://www.xidian.edu.cn/) , under the guidance of Prof. [Wu Jiaji](https://web.xidian.edu.cn/wujj/). I am passionate about working in a full-stack capacity, with a love for **ML**, **Product**, and **UI&UX**. Currently, my focus is on building [@SwanLab](https://github.com/SwanHubX/SwanLab), aiming to create a new collaborative approach to AI research.
 
 [![new](https://github.com/user-attachments/assets/c51cd584-abf7-470b-9baf-10baaf471d9d)](https://swanlab.cn)
+<br>
 
 ## Interest
 
 - Technology: LLM Post-training, AgentRL, Python
 - Product: AI Infra/Tool direction(to developer), UI&UX, Figma
 - Design style: Notion-like
+<br>
 
 ## Product
 
@@ -40,6 +42,7 @@ Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and al
 
 [trendshift-shield]: https://trendshift.io/api/badge/repositories/11622
 [trendshift-link]: https://trendshift.io/repositories/11622
+<br>
 
 ## GitHub Stats 📫
 
