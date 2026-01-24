@@ -7,8 +7,6 @@
 
 Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and also a Ph.D. student at [Xidian University](https://www.xidian.edu.cn/) , under the guidance of Prof. [Wu Jiaji](https://web.xidian.edu.cn/wujj/). I am passionate about working in a full-stack capacity, with a love for **ML**, **Product**, and **UI&UX**. Currently, my focus is on building [@SwanLab](https://github.com/SwanHubX/SwanLab), aiming to create a new collaborative approach to AI research.
 
-*🔥我们正在招募实习生：* [Welcome to EmotionMachine](https://rcnpx636fedp.feishu.cn/wiki/BxtVwAc0siV0xrkCbPTcldBEnNP)
-
 [![new](https://github.com/user-attachments/assets/c51cd584-abf7-470b-9baf-10baaf471d9d)](https://swanlab.cn)
 
 **🚗My Products：**
@@ -29,6 +27,7 @@ Now, I am a co-founder of [SwanLab](https://github.com/SwanHubX/SwanLab), and al
 **🌟Some experiences：**
 
 - **[HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)**: [![][trendshift-shield]][trendshift-link]
+- **President's Scholarship of Xidian University**: 🏆 The highest Award in Xidian, 2022
 - **Tencent Application Development Competition**: 🥈 National runner-up
 - **Challenge Cup**：: 🏆 National Gold Award
 
