@@ -25,7 +25,7 @@ Now, I am a co-founder of EmotionMaichine to build [TRIO](https://pytrio.cn) and
 
 | Product | Details       | Start Time|
 | ---------  | ------- | ---------------- |
-| [TRIO](https://pytrio.cn)   | [Website](https://swanlab.cn?utm_source=linzeyi_profile-homepage). an innovative LLM training API and the AI infrastructure behind it. **🚀Continuing iteration.** | 2026.07 |
+| [TRIO](https://pytrio.cn)   | [Website](https://pytrio.cn). an innovative LLM training API and the AI infrastructure behind it. **🚀Continuing iteration.** | 2026.07 |
 | [SwanLab](https://github.com/SwanHubX/SwanLab)   | [Website](https://swanlab.cn?utm_source=linzeyi_profile-homepage). A tool for your machine learning log tracking and experiment management. **🚀Continuing iteration.** | 2023.12 |
 | [HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)   | **🌟Github Trending top 1**. **🔥1.2 million+ users**; WeChat mini program（already offline🚬）; one-click production of ID photos based on CV; the code has been open-sourced by [HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos).   | 2021.5 |
 | SwanHub    | 🤖A Machine Learning Open Source Community.   | 2023.5 |
