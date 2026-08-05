@@ -11,21 +11,16 @@
 
 ## About Me
 
-Now, I am a co-founder of EmotionMaichine（情感机器 in Chinese） to build [PyTRIO](https://pytrio.com) and [SwanLab](https://github.com/SwanHubX/SwanLab), and also a Ph.D. student at [Xidian University](https://www.xidian.edu.cn/) , under the guidance of Prof. [Wu Jiaji](https://web.xidian.edu.cn/wujj/). I am passionate about working in a full-stack capacity, with a love for **ML**, **Product**, and **UI&UX**. Currently, my focus is on building [PyTRIO](https://pytrio.com) and [@SwanLab](https://github.com/SwanHubX/SwanLab), aiming to create a new collaborative approach to AI research.
-
-[![new](https://github.com/user-attachments/assets/96646cd3-efe9-4261-ae1b-e79cbef36d33)](https://pytrio.com)
-
-## Interest
-
-- Technology: LLM Post-training, AgentRL, Python
-- Product: AI Infra/Tool direction(to developer), UI&UX, Figma
-- Design style: Notion-like
+- Co-founder of Emotion Maichine Lab（情感机器 in Chinese）, Product Director
+- Built [PyTRIO](https://pytrio.com) and [SwanLab](https://swanlab.cn) from scratch
+- Ph.D. student at Xidian University
+- Hobbies: Machine Learning, Product Design, Growth, Art, Sport 
 
 ## Product
 
 | Product | Details       | Start Time|
 | ---------  | ------- | ---------------- |
-| [PyTRIO](https://pytrio.com)   | [Website](https://pytrio.com). an innovative LLM training API and the AI infrastructure behind it. **🚀Continuing iteration.** | 2026.07 |
+| [PyTRIO](https://pytrio.com)   | [Website](https://pytrio.com). LLM training API and the AI infrastructure behind it. **🚀Continuing iteration.** | 2026.07 |
 | [SwanLab](https://github.com/SwanHubX/SwanLab)   | [Website](https://swanlab.cn?utm_source=linzeyi_profile-homepage). A tool for your machine learning log tracking and experiment management. **🚀Continuing iteration.** | 2023.12 |
 | [HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)   | **🌟Github Trending top 1**. **🔥1.2 million+ users**; WeChat mini program（already offline🚬）; one-click production of ID photos based on CV; the code has been open-sourced by [HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos).   | 2021.5 |
 | SwanHub    | 🤖A Machine Learning Open Source Community.   | 2023.5 |
