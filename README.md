@@ -26,16 +26,6 @@
 | SwanHub    | 🤖A Machine Learning Open Source Community.   | 2023.5 |
 | SwanChain  | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
 
-## Some experiences
-
-- **[HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)**: [![][trendshift-shield]][trendshift-link]
-- **President's Scholarship of Xidian University**: 🏆 The highest Award in Xidian, 2022
-- **Tencent Application Development Competition**: 🥈 National runner-up
-- **Challenge Cup**：: 🏆 National Gold Award
-
-[trendshift-shield]: https://trendshift.io/api/badge/repositories/11622
-[trendshift-link]: https://trendshift.io/repositories/11622
-
 ## GitHub Stats 📫
 
 <picture>
