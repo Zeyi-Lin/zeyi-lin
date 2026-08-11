@@ -23,8 +23,6 @@
 | [PyTRIO](https://pytrio.com)   | LLM training API and the AI infrastructure behind it. **🚀Continuing iteration.** | 2026.07 |
 | [SwanLab](https://swanlab.cn)   | A tool for your machine learning log tracking and experiment management. **🚀Continuing iteration.** | 2023.12 |
 | [HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos)   | **🌟Github Trending top 1**. **🔥1.2 million+ users**; WeChat mini program（already offline🚬）; one-click production of ID photos based on CV; the code has been open-sourced by [HivisionIDPhotos](https://github.com/zeyi-lin/HivisionIDPhotos).   | 2021.5 |
-| SwanHub    | 🤖A Machine Learning Open Source Community.   | 2023.5 |
-| SwanChain  | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
 
 ## GitHub Stats
 
