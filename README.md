@@ -26,7 +26,7 @@
 | SwanHub    | 🤖A Machine Learning Open Source Community.   | 2023.5 |
 | SwanChain  | 🔧A drag-and-drop LLM Agent application editor. | 2023.9 |
 
-## GitHub Stats 📫
+## GitHub Stats
 
 <picture>
   <source
